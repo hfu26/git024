@@ -1,0 +1,5 @@
+
+data/
+*.csv
+creds/
+*.DS_Store # Mac Creates this 
